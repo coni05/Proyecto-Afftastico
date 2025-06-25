@@ -4,11 +4,11 @@
 }
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: #414d57;
   color: #ccc;
 }
-header {
-    background: #414d57;
-    padding: 20px 40px;
+.site-header {
+  padding: 20px 40px;
 }
 .nav {
   display: flex;
